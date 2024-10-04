@@ -1,0 +1,1 @@
+export const DOMAIN = `https://arabiclearning.ekata.id/login/index.php`

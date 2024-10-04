@@ -1,0 +1,1 @@
+export const WAITING_TIME = 2000; // in milliseconds

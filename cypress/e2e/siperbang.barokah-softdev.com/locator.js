@@ -1,0 +1,1 @@
+export const DOMAIN = `https://siperbang.barokah-softdev.com/`;
